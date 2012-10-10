@@ -4,3 +4,4 @@ hello hello
 more hello
 greetings
 hello=happy
+foo
